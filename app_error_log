@@ -1,0 +1,120 @@
+App 2261323 output: stdin: is not a tty
+App 2261323 output: Server running at http://localhost:3000/
+App 2261323 output: Db Connected
+App 2261323 output: {
+App 2261323 output:   fieldname: 'profile_image',
+App 2261323 output:   originalname: 'profile-placeholder.jpg',
+App 2261323 output:   encoding: '7bit',
+App 2261323 output:   mimetype: 'image/jpeg',
+App 2261323 output:   destination: 'assets/uploads/profile_picture/',
+App 2261323 output:   filename: 'profile_image_1675867075384.jpg',
+App 2261323 output:   path: 'assets/uploads/profile_picture/profile_image_1675867075384.jpg',
+App 2261323 output:   size: 2516
+App 2261323 output: }
+App 2261323 output: profile_image_1675866829670.jpeg
+App 2261323 output: { profile_image: 'profile_image_1675867075384.jpg' }
+App 2261323 output: {
+App 2261323 output:   acknowledged: true,
+App 2261323 output:   modifiedCount: 1,
+App 2261323 output:   upsertedId: null,
+App 2261323 output:   upsertedCount: 0,
+App 2261323 output:   matchedCount: 1
+App 2261323 output: }
+App 2263326 output: stdin: is not a tty
+App 2263326 output: Server running at http://localhost:3000/
+App 2263326 output: Db Connected
+App 2263326 output: {
+App 2263326 output:   fieldname: 'profile_image',
+App 2263326 output:   originalname: '1550659507344.jpeg',
+App 2263326 output:   encoding: '7bit',
+App 2263326 output:   mimetype: 'image/jpeg',
+App 2263326 output:   destination: 'assets/uploads/profile_picture/',
+App 2263326 output:   filename: 'profile_image_1675867242349.jpeg',
+App 2263326 output:   path: 'assets/uploads/profile_picture/profile_image_1675867242349.jpeg',
+App 2263326 output:   size: 11270
+App 2263326 output: }
+App 2263326 output: profile_image_1675867075384.jpg
+App 2263326 output: { profile_image: 'profile_image_1675867242349.jpeg' }
+App 2263326 output: {
+App 2263326 output:   acknowledged: true,
+App 2263326 output:   modifiedCount: 1,
+App 2263326 output:   upsertedId: null,
+App 2263326 output:   upsertedCount: 0,
+App 2263326 output:   matchedCount: 1
+App 2263326 output: }
+App 2274927 output: stdin: is not a tty
+App 2274927 output: Server running at http://localhost:3000/
+App 2274927 output: Db Connected
+App 2276031 output: stdin: is not a tty
+App 2276031 output: Server running at http://localhost:3000/
+App 2276031 output: Db Connected
+App 2276031 output: {
+App 2276031 output:   _id: new ObjectId("63d92881862432cdd1aa28ae"),
+App 2276031 output:   first_name: 'Subhankar',
+App 2276031 output:   last_name: 'Roy',
+App 2276031 output:   email: 'subhankar.ivan@gmail.com',
+App 2276031 output:   is_verified: 1,
+App 2276031 output:   email_verified_at: 2023-01-31T14:41:47.460Z,
+App 2276031 output:   phone: '65421521521',
+App 2276031 output:   password: '$2b$10$n1tRWHdXrfpyEAjHzFLXrOUrPE4JSkcENdsl/JIziMIXeM6Us5036',
+App 2276031 output:   school: new ObjectId("63b419c33fc6e2689757db71"),
+App 2276031 output:   division: new ObjectId("62fdf8856822cea321287b0b"),
+App 2276031 output:   sport: new ObjectId("63288f70d4bdd90a660315fe"),
+App 2276031 output:   level: new ObjectId("632a7458ac88710e66a25bcb"),
+App 2276031 output:   rating: new ObjectId("62fdf87f6822cea321287b02"),
+App 2276031 output:   status: 'A',
+App 2276031 output:   approve_by_admin: 'APPROVE',
+App 2276031 output:   created_at: 2023-01-31T14:41:05.929Z,
+App 2276031 output:   updated_at: 2023-01-31T14:41:05.929Z
+App 2276031 output: }
+App 2277579 output: stdin: is not a tty
+App 2277579 output: Server running at http://localhost:3000/
+App 2277579 output: Db Connected
+App 2279390 output: stdin: is not a tty
+App 2279390 output: Server running at http://localhost:3000/
+App 2279390 output: Db Connected
+App 2279390 output: {
+App 2279390 output:   _id: new ObjectId("62fdf8d26822cea321287b25"),
+App 2279390 output:   first_name: 'Pramit',
+App 2279390 output:   last_name: 'Paul',
+App 2279390 output:   email: 'pramit.ivan@gmail.com',
+App 2279390 output:   is_verified: 1,
+App 2279390 output:   email_verified_at: 2022-08-18T08:31:32.508Z,
+App 2279390 output:   phone: '8420549531',
+App 2279390 output:   password: '$2b$10$N8ADk6zeGGrPbpWnuyXa/OVOWk38ER1EaOiY55w1.84ulVNZUlQc6',
+App 2279390 output:   school: new ObjectId("63b419c33fc6e2689757db71"),
+App 2279390 output:   division: new ObjectId("62fdf8856822cea321287b0b"),
+App 2279390 output:   sport: new ObjectId("63289018d4bdd90a66031603"),
+App 2279390 output:   level: new ObjectId("62fdf8696822cea321287aed"),
+App 2279390 output:   rating: new ObjectId("62fdf87f6822cea321287b02"),
+App 2279390 output:   status: 'A',
+App 2279390 output:   created_at: 2022-08-18T08:31:14.668Z,
+App 2279390 output:   updated_at: 2022-08-18T08:31:14.668Z,
+App 2279390 output:   approve_by_admin: 'APPROVE',
+App 2279390 output:   profile_image: 'profile_image_1675867242349.jpeg'
+App 2279390 output: }
+App 2444043 output: stdin: is not a tty
+App 2444043 output: Server running at http://localhost:3000/
+App 2444043 output: Db Connected
+App 2444043 output: {
+App 2444043 output:   _id: new ObjectId("63d92881862432cdd1aa28ae"),
+App 2444043 output:   first_name: 'Subhankar',
+App 2444043 output:   last_name: 'Roy',
+App 2444043 output:   email: 'subhankar.ivan@gmail.com',
+App 2444043 output:   is_verified: 1,
+App 2444043 output:   email_verified_at: 2023-01-31T14:41:47.460Z,
+App 2444043 output:   phone: '65421521521',
+App 2444043 output:   password: '$2b$10$n1tRWHdXrfpyEAjHzFLXrOUrPE4JSkcENdsl/JIziMIXeM6Us5036',
+App 2444043 output:   school: new ObjectId("63b419c33fc6e2689757db71"),
+App 2444043 output:   division: new ObjectId("62fdf8856822cea321287b0b"),
+App 2444043 output:   sport: new ObjectId("63288f70d4bdd90a660315fe"),
+App 2444043 output:   level: new ObjectId("632a7458ac88710e66a25bcb"),
+App 2444043 output:   rating: new ObjectId("62fdf87f6822cea321287b02"),
+App 2444043 output:   status: 'A',
+App 2444043 output:   approve_by_admin: 'APPROVE',
+App 2444043 output:   created_at: 2023-01-31T14:41:05.929Z,
+App 2444043 output:   updated_at: 2023-01-31T14:41:05.929Z
+App 2444043 output: }
+App 2495736 output: stdin: is not a tty
+App 2495736 output: Server running at http://localhost:3000/
+App 2495736 output: Db Connected
